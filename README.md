@@ -20,4 +20,4 @@ ASP.NET Core Web API, jQuery, Bootstrap, and SQL Server.
 ## 🗄 Database Setup
 1. Open SQL Server Management Studio
 2. Create a new database (example: `DevDB`)
-3. Run the script from:
+3. Run the script from: Database/database.sql
